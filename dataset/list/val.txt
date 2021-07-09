@@ -1,0 +1,5 @@
+MyoPS2020/train25/myops_training_101     MyoPS2020/train25_myops_gd/myops_training_101
+MyoPS2020/train25/myops_training_106     MyoPS2020/train25_myops_gd/myops_training_106
+MyoPS2020/train25/myops_training_111     MyoPS2020/train25_myops_gd/myops_training_111
+MyoPS2020/train25/myops_training_116     MyoPS2020/train25_myops_gd/myops_training_116
+MyoPS2020/train25/myops_training_121     MyoPS2020/train25_myops_gd/myops_training_121
