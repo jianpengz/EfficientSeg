@@ -1,6 +1,6 @@
 # EfficientSeg
 <p align="left">
-    <img src="EfficientSeg.png" width="55%" height="55%">
+    <img src="EfficientSeg.png" width="85%" height="85%">
 </p>
 
 
