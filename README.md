@@ -37,7 +37,7 @@ If this code is helpful for your study, please cite:
 }
 ```
 ### Thanks to the Third Party Libs
-[Yet-Another-EfficientDet-Pytorch](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch)
+[EfficientDet](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch)
 
 
 ### Contact
